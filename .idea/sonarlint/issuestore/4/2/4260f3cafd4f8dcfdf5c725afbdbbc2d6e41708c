@@ -1,0 +1,12 @@
+
+Zphp:S112W"FDefine and throw a dedicated exception instead of using a generic one.(¼ó†ò
+_php:S112^"FDefine and throw a dedicated exception instead of using a generic one.(’Ê‡øÿÿÿÿ
+_php:S112z"FDefine and throw a dedicated exception instead of using a generic one.(›ôô¢ûÿÿÿÿ
+`php:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(›ôô¢ûÿÿÿÿ
+[php:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(¼ó†ò
+g	php:S1779"SReplace all non line feed end of line characters in this file "register.php" by LF.8ã“–×İ0
+I	php:S1066v"/Merge this if statement with the enclosing one.(ôõ‘Èùÿÿÿÿ
+E	php:S1066„"/Merge this if statement with the enclosing one.(ÌçÄå
+I	php:S1066"/Merge this if statement with the enclosing one.(è§óìúÿÿÿÿ
+k	php:S4833
+"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Æû±Äùÿÿÿÿ
